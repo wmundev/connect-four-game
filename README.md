@@ -1,3 +1,6 @@
+# Blog post
+https://community.aws/content/2pEY55IRObz8ixYA7hXftjPRqek/connect-four-game-made-using-amazon-q-developer
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
